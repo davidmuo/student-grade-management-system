@@ -136,8 +136,8 @@ namespace StudentGradeManagementSystem
             lblName.Text = "Student Name:";
 
             // txtName
-            txtName.Location = new Point(115, 32);
-            txtName.Size = new Size(220, 23);
+            txtName.Location = new Point(140, 32);
+            txtName.Size = new Size(195, 23);
 
             // lblGrade
             lblGrade.AutoSize = true;
@@ -145,8 +145,8 @@ namespace StudentGradeManagementSystem
             lblGrade.Text = "Grade (0-100):";
 
             // txtGrade
-            txtGrade.Location = new Point(455, 32);
-            txtGrade.Size = new Size(80, 23);
+            txtGrade.Location = new Point(475, 32);
+            txtGrade.Size = new Size(60, 23);
             txtGrade.KeyDown += new KeyEventHandler(TxtGrade_KeyDown);
 
             // btnAdd
@@ -187,8 +187,8 @@ namespace StudentGradeManagementSystem
             lblSearch.Text = "Student Name:";
 
             // txtSearchName
-            txtSearchName.Location = new Point(115, 30);
-            txtSearchName.Size = new Size(220, 23);
+            txtSearchName.Location = new Point(140, 30);
+            txtSearchName.Size = new Size(195, 23);
             txtSearchName.KeyDown += new KeyEventHandler(TxtSearchName_KeyDown);
 
             // btnSearch
