@@ -1,3 +1,5 @@
+# video demo: 
+https://youtu.be/TF8s9F2cf-g
 # Student Grade Management System
 
 A Windows desktop application (built with C# and Windows Forms / .NET) for managing
